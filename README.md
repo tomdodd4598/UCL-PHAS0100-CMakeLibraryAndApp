@@ -1,15 +1,17 @@
 CMakeHelloWorld
 ------------------
 
-[![Build Status](https://travis-ci.org/MattClarkson/CMakeHelloWorld.svg?branch=master)](https://travis-ci.org/MattClarkson/CMakeHelloWorld)
-[![Build status](https://ci.appveyor.com/api/projects/status/vt27j5tajc8tsvau/branch/master)](https://ci.appveyor.com/project/MattClarkson/cmakehelloworld/branch/master)
+[![Build Status](https://travis-ci.org/MattClarkson/CMakeLibraryAndApp.svg?branch=master)](https://travis-ci.org/MattClarkson/CMakeLibraryAndApp)
+[![Build status](https://ci.appveyor.com/api/projects/status/mlpxe7xn6jcpfxuu/branch/master?svg=true
+)](https://ci.appveyor.com/project/MattClarkson/cmakelibraryandapp)
 
 
 Purpose
 -------
 
-This is a demo project to provide a 'Hello World' example for [CMake](https://cmake.org/) based projects.
-The aim is really for students to check they can compile anything at all, and that their compiler chain works.
+This is a demo project to provide a more advanced [CMake](https://cmake.org/) example
+ that creates two libraries and a command line app. As with [CMakeHellowWorld](https://github.com/MattClarkson/CMakeHelloWorld)
+ this is only a toy teaching example, and not suitable for real world use. Its just a teaching aid.
 
 Credits
 -------
