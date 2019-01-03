@@ -1,0 +1,5 @@
+add_library(MyMaths mpAdding.cpp mpMultiplying.cpp)
+add_library(MyPrinting mpPrinting.cpp)
+target_link_libraries(MyPrinting MyMaths)
+add_executable(myApp myApp.cpp)
+target_link_libraries(myApp MyPrinting MyMaths)
