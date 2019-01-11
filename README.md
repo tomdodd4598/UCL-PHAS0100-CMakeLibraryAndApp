@@ -1,7 +1,7 @@
 CMakeHelloWorld
 ------------------
 
-[![Build Status](https://travis-ci.org/MattClarkson/CMakeLibraryAndApp.svg?branch=master)](https://travis-ci.org/MattClarkson/CMakeLibraryAndApp)
+[![Build Status](https://travis-ci.com/MattClarkson/CMakeLibraryAndApp.svg?branch=master)](https://travis-ci.com/MattClarkson/CMakeLibraryAndApp)
 [![Build status](https://ci.appveyor.com/api/projects/status/mlpxe7xn6jcpfxuu/branch/master?svg=true
 )](https://ci.appveyor.com/project/MattClarkson/cmakelibraryandapp)
 
