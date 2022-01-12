@@ -3,7 +3,7 @@
 #include "mpPrinting.h"
 int main(int argc, char** argv)
 {
-  std::cout << "Hello Matt!" << std::endl;
+  std::cout << "Hello!" << std::endl;
 
   int a = 4;
   int b = 6;
