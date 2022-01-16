@@ -1,7 +1,7 @@
 CMakeHelloWorld
 ------------------
 
-[![Build status](https://ci.appveyor.com/api/projects/status/qmlividqhxnukl9s/branch/master?svg=true)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakelibraryandapp)
+[![Build status](https://ci.appveyor.com/api/projects/status/qmlividqhxnukl9s/branch/main?svg=true)](https://ci.appveyor.com/project/tomdodd4598/ucl-phas0100-cmakelibraryandapp)
 
 Purpose
 -------
